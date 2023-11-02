@@ -1,2 +1,2 @@
 # WebScrathing
-Using web scratch to Download reports from firms 
+Using web scratch to Download PDFs from sites and transforming them into TXT files 
